@@ -1,4 +1,4 @@
-package test;
+package testFeatures;
 
 public class MicrophoneTest implements testInterface{
 
@@ -18,7 +18,12 @@ public class MicrophoneTest implements testInterface{
 
     @Override
     public int runTest() {
-        System.out.println("Initiating Mic testing.");
+        System.out.println("Starting Microphone testing.");
         return 0;
+    }
+
+    @Override
+    public String toString() {
+        return "MicrophoneTest{}";
     }
 }

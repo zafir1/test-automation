@@ -1,4 +1,4 @@
-package test;
+package testFeatures;
 
 public class WebcamTest implements testInterface {
 
@@ -19,5 +19,10 @@ public class WebcamTest implements testInterface {
     public int runTest() {
         System.out.println("Starting webcam test.");
         return 0;
+    }
+
+    @Override
+    public String toString() {
+        return "WebcamTest{}";
     }
 }

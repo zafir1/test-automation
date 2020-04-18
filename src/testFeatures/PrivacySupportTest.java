@@ -1,4 +1,4 @@
-package test;
+package testFeatures;
 
 public class PrivacySupportTest implements testInterface{
     private static PrivacySupportTest instance = null;
@@ -18,5 +18,10 @@ public class PrivacySupportTest implements testInterface{
     public int runTest() {
         System.out.println("Starting PrivacySupport test.");
         return 0;
+    }
+
+    @Override
+    public String toString() {
+        return "PrivacySupportTest{}";
     }
 }

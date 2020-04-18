@@ -1,9 +1,9 @@
-package test;
+package testFeatures;
 
 public class OutlookIntegration implements testInterface {
     private static OutlookIntegration instance = null;
 
-    public OutlookIntegration() {
+    private OutlookIntegration() {
         System.out.println("Instantiating OutlookIntegration singleton testing class.");
     }
 
@@ -18,5 +18,10 @@ public class OutlookIntegration implements testInterface {
     public int runTest() {
         System.out.println("Starting outlook integration test.");
         return 0;
+    }
+
+    @Override
+    public String toString() {
+        return "OutlookIntegration{}";
     }
 }

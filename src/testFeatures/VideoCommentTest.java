@@ -1,4 +1,4 @@
-package test;
+package testFeatures;
 
 public class VideoCommentTest implements  testInterface{
 
@@ -19,5 +19,10 @@ public class VideoCommentTest implements  testInterface{
     public int runTest() {
         System.out.println("Starting video comment test.");
         return 0;
+    }
+
+    @Override
+    public String toString() {
+        return "VideoCommentTest{}";
     }
 }

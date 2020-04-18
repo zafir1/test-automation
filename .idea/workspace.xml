@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c259888-f6ba-4446-990b-b8fc2775a509" name="Default Changelist" comment="" />
+    <list default="true" id="8c259888-f6ba-4446-990b-b8fc2775a509" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/micRecording.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/screenRecording.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/webcamRecording.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/GenerateSubtitleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFeatures/GenerateSubtitleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/GmailIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFeatures/GmailIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/MicrophoneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFeatures/MicrophoneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/OutlookIntegration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFeatures/OutlookIntegration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/PrivacySupportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFeatures/PrivacySupportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ScreenRecordingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFeatures/ScreenRecordingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/VideoCommentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFeatures/VideoCommentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/WebcamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFeatures/WebcamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/testInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFeatures/testInterface.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +32,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ainUiMmzEJXIb1YyTYgamkiHup" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="copyright.profiles" />
   </component>
   <component name="RunDashboard">
@@ -67,5 +90,16 @@
       <updated>1587227299618</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
